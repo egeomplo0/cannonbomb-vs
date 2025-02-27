@@ -24,6 +24,6 @@ Game Controls (Mobile/Controller)
 - A: Throw Bomb Forward
 - B: Throw Bomb Upward
 
-Made by Egeomplo on [Makecode Arcade](arcade.makecode.com)
+Made by Egeomplo on [Makecode Arcade](https://arcade.makecode.com)
 
 > [https://egeomplo0.github.io/cannonbomb-vs/](https://egeomplo0.github.io/cannonbomb-vs/)
