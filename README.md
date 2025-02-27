@@ -32,7 +32,10 @@ Links:
 
 Play Game: [https://egeomplo0.github.io/cannonbomb-vs/](https://egeomplo0.github.io/cannonbomb-vs/)
 
-Play Game (Online Multiplayer version): [https://arcade.makecode.com/---multiplayer?host=70021-02052-58836-61040](https://arcade.makecode.com/---multiplayer?host=70021-02052-58836-61040)
+Alt Link
+[https://arcade.makecode.com/S81196-31444-26133-60052](https://arcade.makecode.com/S81196-31444-26133-60052)
+
+Online Multiplayer Game: [https://arcade.makecode.com/---multiplayer?host=70021-02052-58836-61040](https://arcade.makecode.com/---multiplayer?host=70021-02052-58836-61040)
 
 -----------------------------------
 
