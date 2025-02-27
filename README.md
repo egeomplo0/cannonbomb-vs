@@ -1,29 +1,39 @@
 Cannonbomb VS is a 1 on 1 platformer fighting game all about throwing bombs. This game is available to play with a friend or solo.
 
-Menu Controls (PC)
-- Arrow Keys or WASD: Menu Select
-- Space or Z: Start
+-----------------------------------
 
-Game Controls (PC)
-- Left/Right or A/D: Move
-- Up or W: Jump
-- Down or S: Lock Direction (Hold Down as well as Left/Right to strafe)
-- Space or Z: Throw Bomb Forward
-- Enter or X: Throw Bomb Upward
+**PC CONTROLS**
+Menu
+- WASD: Menu Select
+- Space/Q: Start
+Game
+- A/D: Move
+- W: Jump
+- S: Lock Direction (Hold Down as well as Left/Right to strafe)
+- Space/Q: Throw Bomb Forward
+- Enter/E: Throw Bomb Upward
 
 -----------------------------------
 
-Menu Controls (Mobile/Controller)
+**MOBILE/CONTROLLER CONTROLS**
+Menu
 - Directionals: Menu Select
 - A: Start
-
-Game Controls (Mobile/Controller)
+Game
 - Left/Right: Move
 - Up: Jump
 - Down: Lock Direction　(Hold Down as well as Left/Right to strafe)
 - A: Throw Bomb Forward
 - B: Throw Bomb Upward
 
-Made by Egeomplo on [Makecode Arcade](https://arcade.makecode.com)
+-----------------------------------
 
-> [https://egeomplo0.github.io/cannonbomb-vs/](https://egeomplo0.github.io/cannonbomb-vs/)
+Links:
+
+Play Game: [https://egeomplo0.github.io/cannonbomb-vs/](https://egeomplo0.github.io/cannonbomb-vs/)
+
+Play Game (Online Multiplayer version): [https://arcade.makecode.com/---multiplayer?host=70021-02052-58836-61040](https://arcade.makecode.com/---multiplayer?host=70021-02052-58836-61040)
+
+-----------------------------------
+
+Made by Egeomplo on [Makecode Arcade](https://arcade.makecode.com)
